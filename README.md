@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
-<img aling="right" alt="coding" width="350"  src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" alt="">
-
+<img aling="right" alt="coding" width="400"  src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" alt="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akumar591&label=Profile%20views&color=0e75b6&style=flat" alt="akumar591" /> </p>
 
 - 📫 How to reach me **akumar.12121999@gmail.com**
