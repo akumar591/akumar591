@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
+<img aling="right" alt="coding" Hight="300" width="350"  src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akumar591&label=Profile%20views&color=0e75b6&style=flat" alt="akumar591" /> </p>
-
 
 - 📫 How to reach me **akumar.12121999@gmail.com**
 
 - ⚡ Fun fact **Share a quirky habit 🫢**
 
 <h3 align="left">Connect with me:</h3>
-<img aling="left" alt="coding" Hight="300" width="350"  src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/0f73533e44c089e41c3290d4535491ad.gif" alt="">
-
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar-35b483311?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3babcxspeps2myizxmpa0rrg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-kumar-35b483311?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3babcxspeps2myizxmpa0rrg%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/shrivastav_.raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shrivastav_.raj" height="30" width="40" /></a>
