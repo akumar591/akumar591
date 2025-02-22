@@ -7,9 +7,6 @@
 
 - ⚡ Fun fact **Share a quirky habit 🫢**
 
--  <img src="https://th.bing.com/th/id/R.79f1071917957f617d06c33c651007db?rik=3NepNiA%2fROs6xA&riu=http%3a%2f%2fgetwallpapers.com%2fwallpaper%2ffull%2fb%2f1%2f4%2f1420619-new-hacker-background-3840x2160-for-htc.jpg&ehk=lEnHWdStqvZ0Yjd3ciAzOd3bYVZ%2fXEkzsCY57fbaFLM%3d&risl=&pid=ImgRaw&r=0"
-        alt="" align="right" width="400px" height="250px" style="border: 2px solid black ; >
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-kumar-35b483311?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3babcxspeps2myizxmpa0rrg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-kumar-35b483311?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3babcxspeps2myizxmpa0rrg%3d%3d" height="30" width="40" /></a>
