@@ -1,32 +1,35 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shrivastav</h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate Full Stack Developer from India</h3>
+
+<h3 align="center">
+Full Stack MERN Developer from India 🇮🇳
+</h3>
 
 <p align="center">
-I love building scalable web applications and learning new technologies.  
-Focused on creating responsive, user-friendly, and high-performance web apps.
+<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Full+Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+Scalable+Web+Apps&center=true&width=500&height=50">
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
-- 🌱 Currently improving **Backend & System Design**
-- 🚀 Interested in **Full Stack Development & Scalable Web Apps**
-- 📫 Reach me at: **akumar.12121999@gmail.com**
-- ⚡ Fun fact: I can debug code faster with coffee ☕😄
+- 🚀 MERN Stack Developer (MongoDB, Express, React, Node.js)
+- 💡 Passionate about building scalable web applications
+- 🌱 Currently learning **System Design & Advanced Backend**
+- 👨‍💻 All of my projects are available on **GitHub**
+- 📫 Reach me at **akumar.12121999@gmail.com**
+- ⚡ Fun fact: *I debug better with coffee ☕*
 
 ---
 
-### 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abhishek-kumar-35b483311">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 <a href="https://instagram.com/shrivastav_.raj">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 </p>
 
@@ -34,30 +37,34 @@ Focused on creating responsive, user-friendly, and high-performance web apps.
 
 # 🚀 Tech Stack
 
+### MERN Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" />
+</p>
+
 ### Frontend
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
 </p>
 
 ### Backend
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Database
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Other Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40"/>
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,java,photoshop" />
 </p>
 
 ---
@@ -65,21 +72,37 @@ Focused on creating responsive, user-friendly, and high-performance web apps.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=akumar591&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akumar591&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=akumar591&show_icons=true&theme=tokyonight" height="180em"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akumar591&layout=compact&theme=tokyonight" height="180em"/>
 
-# 🔥 Contribution Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=akumar591&theme=tokyonight" />
 </p>
 
 ---
 
-⭐ From [Abhishek Shrivastav](https://github.com/akumar591)
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=akumar591&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akumar591&theme=tokyo-night"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=akumar591&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<h3 align="center">⭐ If you like my work, consider giving a star to my repositories!</h3>
