@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Abhishek kumar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;React+Developer;Node.js+Backend;Building+Modern+Web+Apps&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+Developer;Node.js+Backend+Developer;Full+Stack+Web+Developer">
 </p>
 
 ---
@@ -57,9 +56,9 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akumar591&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akumar591&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akumar591&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akumar591&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -68,11 +67,11 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=akumar591&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=akumar591&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
 <p align="center">
-⭐ From <b>Abhishek kumar</b>
+⭐ From <b>Abhishek Kumar</b>
 </p>
