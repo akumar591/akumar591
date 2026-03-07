@@ -56,9 +56,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=akumar591&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akumar591&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akumar591&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akumar591&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
@@ -71,6 +71,12 @@
 </p>
 
 ---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akumar591&theme=tokyo-night&hide_border=true"/>
+</p>
 
 <p align="center">
 ⭐ From <b>Abhishek Kumar</b>
